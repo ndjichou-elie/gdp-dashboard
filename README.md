@@ -19,3 +19,9 @@ An interactive dashboard for visualizing global GDP trends over time, by country
 
 ## 📁 Project Structure
 
+✍️ Author
+Ndjichou Elie
+GitHub: @ndjichou-elie
+
+📜 License
+This project is licensed under the MIT License — feel free to use and improve it!
